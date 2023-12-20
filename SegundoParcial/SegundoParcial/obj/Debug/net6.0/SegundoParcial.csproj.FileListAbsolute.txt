@@ -1,0 +1,15 @@
+D:\c#\SegundoParcial\SegundoParcial\bin\Debug\net6.0\SegundoParcial.exe
+D:\c#\SegundoParcial\SegundoParcial\bin\Debug\net6.0\SegundoParcial.deps.json
+D:\c#\SegundoParcial\SegundoParcial\bin\Debug\net6.0\SegundoParcial.runtimeconfig.json
+D:\c#\SegundoParcial\SegundoParcial\bin\Debug\net6.0\SegundoParcial.dll
+D:\c#\SegundoParcial\SegundoParcial\bin\Debug\net6.0\SegundoParcial.pdb
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.csproj.AssemblyReference.cache
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.AssemblyInfoInputs.cache
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.AssemblyInfo.cs
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.csproj.CoreCompileInputs.cache
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.dll
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\refint\SegundoParcial.dll
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.pdb
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\SegundoParcial.genruntimeconfig.cache
+D:\c#\SegundoParcial\SegundoParcial\obj\Debug\net6.0\ref\SegundoParcial.dll
